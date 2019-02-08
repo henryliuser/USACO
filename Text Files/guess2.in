@@ -1,0 +1,14 @@
+6
+A 3 a b c
+B 5 d e a q c
+C 9 m n e b c f t y u
+D 11 q w e r t y u i o p l
+E 4 a b e d
+F m n b v u t
+
+
+for each trait (assumed yes, in right order)
+check if any cow has it
+if it doesnt, remove the cow;
+if it does, keep the cow
+
