@@ -18,6 +18,7 @@ public class marathon {
         for (int z = 0; z < N; z++) {
             checkpoints[z][0] = in.nextInt();
             checkpoints[z][1] = in.nextInt();
+            if (z == 0) currentPos = checkpoints[z].clone();
             totalDistance += distance(currentPos, checkpoints[z]);
             currentPos = checkpoints[z].clone();
         }
