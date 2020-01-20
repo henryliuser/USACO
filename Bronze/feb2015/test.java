@@ -1,4 +1,4 @@
-package COW.feb2015;
+package feb2015;
 
 public class test {
     public static void main(String[] x) {
