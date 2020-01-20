@@ -1,4 +1,4 @@
-package Censor.feb2015;// 2/21/2015 (written in contest)
+package feb2015;// 2/21/2015 (written in contest)
 // Solution to 2015 February USACO Bronze Problem: Censoring
 
 import java.util.*;

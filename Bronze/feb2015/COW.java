@@ -1,4 +1,4 @@
-package COW.feb2015;
+package feb2015;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package Censor.feb2015;
+package feb2015;
 
 import java.io.*;
 import java.util.Stack;

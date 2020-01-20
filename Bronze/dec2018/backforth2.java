@@ -1,4 +1,4 @@
-package Backforth.dec2018;
+package dec2018;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -11,7 +11,7 @@ public class backforth2 {
 
 
     public static void main(String[] args) throws IOException {
-        Scanner in = new Scanner(new File("Backforth/dec2018/backforth.in"));
+        Scanner in = new Scanner(new File("dec2018/backforth.in"));
         BufferedWriter out;
 
         int[] buckets1 = new int[10];
@@ -52,7 +52,7 @@ public class backforth2 {
 
 //        }
 
-        out = new BufferedWriter(new FileWriter("Backforth/dec2018/backforth.out"));
+        out = new BufferedWriter(new FileWriter("dec2018/backforth.out"));
         out.write(String.valueOf(finals.size()/2+1));
         out.close();
 
