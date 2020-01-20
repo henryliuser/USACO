@@ -1,10 +1,10 @@
-package Mixmilk.dec2018;
+package dec2018;
 
 import java.io.*;
 import java.util.Scanner;
 public class mixmilk {
     public static void main(String[] args) throws IOException {
-        Scanner in = new Scanner(new File("Mixmilk/dec2018/mixmilk.in"));
+        Scanner in = new Scanner(new File("dec2018/mixmilk.in"));
         BufferedWriter out;
 
 
