@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class meetings3 {
+public class meetings3 { //how tf is this problem so hard
 
     static class Cow implements Comparable {
         int w,x,v;
