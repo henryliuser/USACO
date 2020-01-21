@@ -120,7 +120,7 @@ public class meetings {
                         leftTowards.add(c);
                     }
                 }
-
+                    //k this shit not gonna work i giveu p
                 int destination = 0;
                 Cow temp = null;
                 if (leftTowards.size() > rightTowards.size()) {
