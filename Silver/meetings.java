@@ -133,7 +133,7 @@ public class meetings {
                     temp = new Cow(rightMost);
                 }
                 barnings.add(new Barning(timeTil(temp,0),temp));
-                else barnings.add(new Barning(timeTil(a, L),a));
+//                else barnings.add(new Barning(timeTil(a, L),a));
             }
         }
 

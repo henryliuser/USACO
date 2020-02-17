@@ -67,7 +67,7 @@ public class meetings2 {
         int p = 0, k = 0;
         for (int z = 0; z < N; z++) {
             Cow a = cows.get(z);
-            if (a.v < 0)
+
         }
 
         for (int z = 0; z < N; z++) {
